@@ -1,0 +1,6 @@
+{
+  "name": "CIVIC PULSE",
+  "description": "AI-Based Road Safety & Infrastructure Analytics System for Indian States and Union Territories",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
